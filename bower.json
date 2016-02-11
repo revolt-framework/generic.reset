@@ -1,0 +1,20 @@
+{
+  "name": "revolt.generic.reset",
+  "homepage": "https://github.com/revolt-framework/generic.reset",
+  "authors": [
+    {
+      "name": "Ruven Pelka",
+      "email": "ruven.pelka@gmail.com",
+      "homepage": "http://ruvenpelka.com"
+    }
+  ],
+  "description": "Revolt framework's reset module",
+  "main": "_generic.reset.scss",
+  "keywords": [
+    "revolt",
+    "oocss",
+    "css",
+    "reset"
+  ],
+  "license": "MIT"
+}
